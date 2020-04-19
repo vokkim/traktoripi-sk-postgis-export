@@ -1,0 +1,16 @@
+{
+  "name": "traktoripi-sk-postgis-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "Mikko Vesikkala",
+  "license": "MIT",
+  "dependencies": {
+    "baconjs": "1.0.1",
+    "pg-promise": "10.5.0"
+  }
+}
